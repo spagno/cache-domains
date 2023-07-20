@@ -26,6 +26,11 @@
 			"domain_files": ["daybreak.txt"]
 		},
 		{
+                        "name": "dcs",
+                        "description": "Digital Combat Simulator CDN",
+                        "domain_files": ["dcs.txt"]
+                },
+		{
 			"name": "epicgames",
 			"description": "CDN for Epic Games",
 			"domain_files": ["epicgames.txt"]
